@@ -61,4 +61,4 @@ Providing convenience, speed, and premium service in Mussoorie.
 ---
 
 ## 👨‍💻 Developed By
-**CodingHunters**
+**Yash Thakkar**
